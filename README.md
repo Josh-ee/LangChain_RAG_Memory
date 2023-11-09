@@ -1,6 +1,14 @@
 # LangChain_RAG_Memory
 Example of Conversational Memory with RAG that cites sources
 
+<p align="center">
+   <strong>Running The UI code for Conversational Memory with RAG that cites sources</strong><br><br>
+   <img src="https://github.com/Josh-ee/LangChain_RAG_Memory/assets/74482044/77f1c92c-c076-428a-b4b5-f30a12766b25" alt="ezgif com-optimize-4"/>
+</p>
+
+Note: The GIF demo is a real-time representation of the code execution on M2 Max and has not been sped up  
+
+**For running LLMs locally on Mac I perfer LlamaIndex, see that demo [here](https://github.com/Josh-ee/LlamaIndex_RAG_Memory.git)**
 
 ## Introduction
 
